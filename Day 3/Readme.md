@@ -34,10 +34,10 @@ You've come to a lake. There is an island in the middle of the lake. Type "wait"
 
 #### 2. Use the features 
 
-Left --> You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?
-Yellow --> You found the treasure! You Win!
+##### Left --> You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?
+##### Yellow --> You found the treasure! You Win!
 
-Right --> You chose a door that doesn't exist. Game Over. 
-Swim --> You get attacked by an angry trout. Game Over
-Blue --> You chose a door that doesn't exist. Game Over.
-Red --> It's a room full of fire. Game Over.
+##### Right --> You chose a door that doesn't exist. Game Over. 
+##### Swim --> You get attacked by an angry trout. Game Over
+##### Blue --> You chose a door that doesn't exist. Game Over.
+##### Red --> It's a room full of fire. Game Over.
