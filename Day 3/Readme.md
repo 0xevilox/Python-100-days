@@ -23,7 +23,7 @@ Then combine these numbers to make a 2 digit number.
 #### Otherwise, the message will just be their score. e.g.:
 "Your score is "z*"."
 
-## 2. Treasure Island 
+# 2. Treasure Island 
 
 It very basic programming Game project If you are beginner Just give try 
 
