@@ -22,3 +22,22 @@ Then combine these numbers to make a 2 digit number.
 
 #### Otherwise, the message will just be their score. e.g.:
 "Your score is "z*"."
+
+## 2. Treasure Island 
+
+It very basic programming Game project If you are beginner Just give try 
+
+Instruction
+
+#### 1. Get the input 
+You've come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.
+
+#### 2. Use the features 
+
+Left --> You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?
+Yellow --> You found the treasure! You Win!
+
+Right --> You chose a door that doesn't exist. Game Over. 
+Swim --> You get attacked by an angry trout. Game Over
+Blue --> You chose a door that doesn't exist. Game Over.
+Red --> It's a room full of fire. Game Over.
