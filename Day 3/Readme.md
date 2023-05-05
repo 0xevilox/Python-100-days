@@ -1,4 +1,4 @@
-# Love Calculator challenge
+# 1. Love Calculator challenge
 
 The Love Calculator is a program that calculates a compatibility score between two people based on their names.
 
