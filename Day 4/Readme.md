@@ -15,3 +15,11 @@ To devlop this I have use the simple if,elif,else statement with random function
 
 Credits: https://www.wikihow.com/Play-Rock,-Paper,-Scissors
 
+# 2. Lucky Card Dinner
+
+##### This program is a fun and easy way to decide who will pay for a meal among a group of friends. Simply enter the names of the people in the group, run the program, and let it choose the lucky person who will cover the bill.
+
+#####  This Python program generates a random name from a list of names entered by the user, using the "random" module. The user is prompted to enter names separated by commas, which are then stored in a list using the "split" method. The program then randomly selects a name from the list using the "randint" function and prints it as the person who will pay for the meal.
+
+###### And it will also using the random.choice() fucntion to make simple but first use this function we need to understand the concepts so try without choice function
+
