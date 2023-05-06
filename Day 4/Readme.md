@@ -25,4 +25,4 @@ Credits: https://www.wikihow.com/Play-Rock,-Paper,-Scissors
 
 # 3. Treasure Map
 
-#### This program is a fun treasure map game where the user inputs a position on a 4x4 grid to place the treasure. The program then updates the grid to show the position of the treasure using an "X".
+#### This program is a fun treasure map game where the user inputs a position on a 4x4 Matrix to place the treasure. The program then updates the grid to show the position of the treasure using an "X".
