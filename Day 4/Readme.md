@@ -23,3 +23,6 @@ Credits: https://www.wikihow.com/Play-Rock,-Paper,-Scissors
 
 ###### And it will also using the random.choice() fucntion to make simple but first use this function we need to understand the concepts so try without choice function
 
+# 3. Treasure Map
+
+#### This program is a fun treasure map game where the user inputs a position on a 4x4 grid to place the treasure. The program then updates the grid to show the position of the treasure using an "X".
