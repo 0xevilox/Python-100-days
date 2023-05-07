@@ -9,3 +9,5 @@ Fizz buzz is a group word game for children to teach them about division Players
 Source: https://en.wikipedia.org/wiki/Fizz_buzz
 
 I have devloped with range 100  
+
+[![Password Generator and Fizz Buzz](https://img.youtube.com/vi/TeeE7ko-98I/0.jpg)](https://www.youtube.com/watch?v=TeeE7ko-98I)
