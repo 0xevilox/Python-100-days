@@ -2,7 +2,7 @@
 
 I have created a Random Password Generator using a for loop and the random function, providing a secure and customizable solution for generating strong passwords.
 
-# Fizz Buzz 
+# 2. Fizz Buzz 
 
 Fizz buzz is a group word game for children to teach them about division Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz", and any number divisible by both 3 and 5 with the word "fizzbuzz".
 
