@@ -41,3 +41,11 @@ You've come to a lake. There is an island in the middle of the lake. Type "wait"
 ##### Swim --> You get attacked by an angry trout. Game Over
 ##### Blue --> You chose a door that doesn't exist. Game Over.
 ##### Red --> It's a room full of fire. Game Over.
+
+#3 Leap year 
+
+It very basic program for leap year 
+
+The number divisble by 4 is called leap year but in some of the case leap year is not divisble by 4 but it still leap year 
+
+In that case the number divisible by both 100 and 400 is called leap year and divisble by 100 not divisible by 400 is also called as leap year
