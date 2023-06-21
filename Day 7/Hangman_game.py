@@ -60,7 +60,7 @@ stage = [
 #random module
 import random
 #This wordlist to guess
-word_list = open("D:/Programming/hangman.txt")
+word_list = open("https://github.com/0xevilox/Python-100-days/blob/main/Day%207/hangman.txt")
 #make the random word
 word_list = word_list.read().splitlines()
 chosen_word = random.choice(word_list)
