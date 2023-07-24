@@ -59,3 +59,18 @@ elif 40 <= var_2 <= 50:
     print(f"Your score is {var_2}, you are alright together.")
 else:
     print(f"Your score is {var_2}")
+
+
+#Updated code which I have upgraded myself (this called efficient programmer)
+user = input("Enter your name: ").lower()
+user_1 = input("Enter your bf/gf Name: ").lower()
+combined = user + user_1
+how_many_true = combined.count("t") + combined.count("r") + combined.count("u") + combined.count("e")
+how_many_love = combined.count("l") + combined.count("o") + combined.count("v") + combined.count("e")
+result = how_many_true + how_many_love
+if result < 10 or result > 90:
+    print(f"Your score is {result}, you go together like coke and mentos.")
+elif result >=40 and result <= 50:
+    print(f"Your score is {result}, you are alright together.")
+else:
+    print(f"Your score is {result}.")
